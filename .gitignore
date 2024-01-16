@@ -1,0 +1,25 @@
+# .gitignore
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore output files
+*.html
+*.pdf
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore virtual environment
+venv/
+virtualenv/
+
+# Ignore sensitive information
+.env
+
+# Ignore data files if they are too large or confidential
+/data/
+
+# Ignore any logs or temporary files
+*.log
+*.tmp
