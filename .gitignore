@@ -18,7 +18,7 @@ virtualenv/
 .env
 
 # Ignore data files if they are too large or confidential
-/data/
+# /data/
 
 # Ignore any logs or temporary files
 *.log
