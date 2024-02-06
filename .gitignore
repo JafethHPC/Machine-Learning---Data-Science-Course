@@ -23,3 +23,5 @@ virtualenv/
 # Ignore any logs or temporary files
 *.log
 *.tmp
+
+env
